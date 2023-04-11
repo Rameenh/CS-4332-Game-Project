@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animation/Sword.controller
+    - Assets/Animation/Sword.controller.meta
+    - Assets/Animation/SwordSwing.anim
+    - Assets/Animation/SwordSwing.anim.meta
+    - Assets/CanvasTimeline.playable
+    - Assets/CanvasTimeline.playable.meta
+    - Assets/Import.meta
+    - Assets/Materials/BulletTrail.mat
+    - Assets/Materials/BulletTrail.mat.meta
+    - Assets/Models/DamageUp.meta
+    - Assets/Models/DamageUp/My_Bicep.prefab
+    - Assets/Models/DamageUp/My_Bicep.prefab.meta
+    - Assets/Models/DamageUp/license.txt
+    - Assets/Models/DamageUp/license.txt.meta
+    - Assets/Models/DamageUp/materials.meta
+    - Assets/Models/DamageUp/materials/Scene_-_Root_0.mat
+    - Assets/Models/DamageUp/materials/Scene_-_Root_0.mat.meta
+    - Assets/Models/DamageUp/meshes.meta
+    - Assets/Models/DamageUp/meshes/Object_0_0_0.asset
+    - Assets/Models/DamageUp/meshes/Object_0_0_0.asset.meta
+    - Assets/Models/DamageUp/meshes/Object_1_1_0.asset
+    - Assets/Models/DamageUp/meshes/Object_1_1_0.asset.meta
+    - Assets/Models/DamageUp/meshes/Object_2_2_0.asset
+    - Assets/Models/DamageUp/meshes/Object_2_2_0.asset.meta
+    - Assets/Models/DamageUp/textures.meta
+    - Assets/Models/IncreaseRateOfFire.meta
+    - Assets/Models/IncreaseRateOfFire/Bullet_Powerup.prefab
+    - Assets/Models/IncreaseRateOfFire/Bullet_Powerup.prefab.meta
+    - Assets/Models/IncreaseRateOfFire/license.txt
+    - Assets/Models/IncreaseRateOfFire/license.txt.meta
+    - Assets/Models/IncreaseRateOfFire/materials.meta
+    - Assets/Models/IncreaseRateOfFire/materials/Material_0.mat
+    - Assets/Models/IncreaseRateOfFire/materials/Material_0.mat.meta
+    - Assets/Models/IncreaseRateOfFire/meshes.meta
+    - Assets/Models/IncreaseRateOfFire/meshes/Object_0_0_0.asset
+    - Assets/Models/IncreaseRateOfFire/meshes/Object_0_0_0.asset.meta
+    - Assets/Models/IncreaseRateOfFire/textures.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/BulletMover.prefab
+    - Assets/Prefabs/BulletMover.prefab.meta
+    - Assets/Prefabs/DamageNumber.prefab
+    - Assets/Prefabs/DamageNumber.prefab.meta
+    - Assets/Prefabs/GreenSlimeMover.prefab
+    - Assets/Prefabs/GreenSlimeMover.prefab.meta
+    - Assets/Prefabs/Pistol.prefab
+    - Assets/Prefabs/Pistol.prefab.meta
+    - Assets/Prefabs/SpikeBallMover.prefab
+    - Assets/Prefabs/SpikeBallMover.prefab.meta
+    - Assets/Prefabs/Sword.prefab
+    - Assets/Prefabs/Sword.prefab.meta
+    - Assets/Scenes/Ending.unity
+    - Assets/Scenes/Ending.unity.meta
+    - Assets/Scenes/Intro.unity
+    - Assets/Scenes/Intro.unity.meta
+    - Assets/Scenes/Level1.unity
+    - Assets/Scenes/Level2.unity
+    - Assets/Scenes/Level2.unity.meta
+    - Assets/Scenes/Level3.unity
+    - Assets/Scenes/Level3.unity.meta
+    - Assets/Scenes/Level4.unity
+    - Assets/Scenes/Level4.unity.meta
+    - Assets/Scenes/Level5.unity
+    - Assets/Scenes/Level5.unity.meta
+    - Assets/Scenes/Menu.unity
+    - Assets/Scripts/Ending.cs
+    - Assets/Scripts/Ending.cs.meta
+    - Assets/Scripts/Entities/Combatant.cs
+    - Assets/Scripts/Entities/EnemyFollower.cs
+    - Assets/Scripts/Entities/Player.cs
+    - Assets/Scripts/GameManager.cs
+    - Assets/Scripts/Intro.cs
+    - Assets/Scripts/Intro.cs.meta
+    - Assets/Scripts/Items/DoubleRateFire.cs
+    - Assets/Scripts/Items/DoubleRateFire.cs.meta
+    - Assets/Scripts/Items/HealthPowerUp.cs
+    - Assets/Scripts/Items/InvincibilityCloak.cs
+    - Assets/Scripts/Items/InvincibilityCloak.cs.meta
+    - Assets/Scripts/Items/OverclockModule.cs
+    - Assets/Scripts/Items/OverclockModule.cs.meta
+    - Assets/Scripts/Items/Pistol.cs
+    - Assets/Scripts/Items/Pistol.cs.meta
+    - Assets/Scripts/Music/Beat.cs
+    - Assets/Scripts/PlanetMovement/PlanetMover.cs
+    - Assets/Scripts/PlayerData.cs
+    - Assets/Scripts/PlayerData.cs.meta
+    - Assets/Scripts/SaveSystem.cs
+    - Assets/Scripts/SaveSystem.cs.meta
+    - Assets/Scripts/UI/DamageNumber.cs
+    - Assets/Scripts/UI/DamageNumber.cs.meta
+    - Assets/Scripts/UI/HealthBar.cs
+    - Assets/Scripts/UI/MainMenu.cs
+    - Assets/Scripts/UI/PauseMenu.cs
+    - Assets/Scripts/Weapons.meta
+    - Assets/Scripts/Weapons/BeamSword.cs
+    - Assets/Scripts/Weapons/BeamSword.cs.meta
+    - Assets/Scripts/Weapons/Bullet.cs
+    - Assets/Scripts/Weapons/Bullet.cs.meta
+    - Assets/Scripts/Weapons/Pistol.cs
+    - Assets/Scripts/Weapons/Pistol.cs.meta
+    - Assets/Scripts/Weapons/Weapon.cs
+    - Assets/Scripts/Weapons/Weapon.cs.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

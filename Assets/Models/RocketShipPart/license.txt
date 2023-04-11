@@ -1,0 +1,11 @@
+Model Information:
+* title:	Engine inline 6
+* source:	https://sketchfab.com/3d-models/engine-inline-6-ff66461b929f4a9e82d88925cdd11075
+* author:	lilvenombeats (https://sketchfab.com/lilvenombeats)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Engine inline 6" (https://sketchfab.com/3d-models/engine-inline-6-ff66461b929f4a9e82d88925cdd11075) by lilvenombeats (https://sketchfab.com/lilvenombeats) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

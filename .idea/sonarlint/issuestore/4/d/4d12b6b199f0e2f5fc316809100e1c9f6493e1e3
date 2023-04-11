@@ -1,0 +1,4 @@
+
+lcsharpsquid:S101"KRename class 'HUD' to match pascal case naming rules, consider using 'Hud'.(™·³éÿÿÿÿÿ
+Dcsharpsquid:S3903""Move 'HUD' into a named namespace.(™·³éÿÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(–ÓØë

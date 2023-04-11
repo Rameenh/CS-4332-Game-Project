@@ -1,0 +1,6 @@
+
+Mcsharpsquid:S3903"+Move 'SwitchWeapon' into a named namespace.(—úø‹ÿÿÿÿÿ
+Dcsharpsquid:S2933"Make 'cooldown' 'readonly'.(Äê¥üÿÿÿÿ8€¾•ê…0
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(·ÒÒÿÿÿÿÿ8úÿ•é…0
+Pcsharpsquid:S1172$",Remove this unused method parameter 'other'.(š³ùĞ8ï½›ê…0
+~csharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.( ÿ‡êşÿÿÿÿ8û’ê…0

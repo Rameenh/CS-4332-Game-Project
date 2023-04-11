@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sweet Cloak
+* source:	https://sketchfab.com/3d-models/sweet-cloak-d149fc4c12084c669d6bd0ac24f213ee
+* author:	gozdemrl (https://sketchfab.com/gozdemrl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sweet Cloak" (https://sketchfab.com/3d-models/sweet-cloak-d149fc4c12084c669d6bd0ac24f213ee) by gozdemrl (https://sketchfab.com/gozdemrl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

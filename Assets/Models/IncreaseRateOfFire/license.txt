@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bullet Powerup
+* source:	https://sketchfab.com/3d-models/bullet-powerup-2075d9e896234197ab69f1e6cf70df05
+* author:	BlerSham (https://sketchfab.com/BlerSham)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bullet Powerup" (https://sketchfab.com/3d-models/bullet-powerup-2075d9e896234197ab69f1e6cf70df05) by BlerSham (https://sketchfab.com/BlerSham) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

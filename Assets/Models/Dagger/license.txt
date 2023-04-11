@@ -1,0 +1,11 @@
+Model Information:
+* title:	Captains Pirate Dagger
+* source:	https://sketchfab.com/3d-models/captains-pirate-dagger-08797ef9037148cd924967dad0e65b10
+* author:	jsorens (https://sketchfab.com/Jotunungen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Captains Pirate Dagger" (https://sketchfab.com/3d-models/captains-pirate-dagger-08797ef9037148cd924967dad0e65b10) by jsorens (https://sketchfab.com/Jotunungen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

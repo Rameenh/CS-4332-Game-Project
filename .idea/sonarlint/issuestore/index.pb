@@ -1,0 +1,43 @@
+
+M
+Assets/Scripts/CameraMover.cs,a\e\ae403113aa48ba6cb4d83903a50d175ab4d32a69
+P
+ Assets/Scripts/Weapons/Weapon.cs,8\d\8d98ef09cb88e26fee805c1e1484ab8b047d30a8
+P
+ Assets/Scripts/Weapons/Bullet.cs,6\e\6ecf27e0ea9857c87321b5c83468959a78afd402
+\
+,Assets/Scripts/PlanetMovement/PlanetMover.cs,6\8\68c9064f9d100cbb293cba4095ce968b2d238ae6
+P
+ Assets/Scripts/Weapons/Pistol.cs,4\4\44093e762942c343746374f0081cee22e537ae73
+T
+$Assets/Scripts/Entities/Combatant.cs,6\a\6aa6fa3be4d5ca73c119428882d3f77a1fa272ee
+X
+(Assets/Scripts/Entities/EnemyFollower.cs,9\c\9cd065a48bb9d3109e861a51edb43f19b6d4c4c0
+T
+$Assets/Scripts/Entities/BlackBall.cs,9\4\941d10a63770c0fb7c33a35e9e05b16f2d044962
+V
+&Assets/Scripts/Items/DoubleRateFire.cs,a\3\a30b0629d1c9ed7554e90d3cbb39aa716eb92eb2
+`
+0Assets/Scripts/PlanetMovement/ControlledMover.cs,e\c\ec2c8bec3c260420cc78cc24083e31bc7d68c7d7
+H
+Assets/Scripts/Ending.cs,e\5\e5d2b062ad247e5962eb813aea5f52a04dd80476
+S
+#Assets/Scripts/Entities/RedSlime.cs,6\b\6b456244a07a053afc72f1705060cca02a668e9a
+T
+$Assets/Scripts/Items/SwitchWeapon.cs,f\6\f654be24291d6a74e6a9d1ec02886e446309fe5c
+R
+"Assets/Scripts/UI/BeatIndicator.cs,0\9\09962679ec1270c4c6a40979a48c830040798d04
+H
+Assets/Scripts/UI/HUD.cs,4\d\4d12b6b199f0e2f5fc316809100e1c9f6493e1e3
+Y
+)Assets/Scripts/Entities/BlueGreenSlime.cs,1\9\19b7b4c8a85548e30c5eb1b8644aed058b5f8454
+L
+Assets/Scripts/Music/Beat.cs,c\4\c4faf93233a673a733d6b27f0dad81b93dd6b22c
+X
+(Assets/Scripts/PlanetMovement/JumpPad.cs,7\2\721fffa8dbb8d4dee4975e2e616ecf0dd33267b4
+Q
+!Assets/Scripts/UI/SettingsMenu.cs,4\a\4ab7c54747a14564ec5850a437f421a2a44fe8db
+Z
+*Assets/Scripts/Items/InvincibilityCloak.cs,4\5\452278beb31fcd966eaeaec531ac021d889c582c
+Q
+!Assets/Scripts/Entities/Player.cs,1\6\167374bab6b1878fbb403acccb88749e8c68e210

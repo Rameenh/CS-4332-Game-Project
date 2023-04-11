@@ -1,0 +1,15 @@
+
+]csharpsquid:S1854Ò"8Remove this useless assignment to local variable 'text'.(Ì÷¯·8Œƒáë…0
+@csharpsquid:S3903"#Move 'Beat' into a named namespace.(óóä™
+fcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(şÏğÿûÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ë÷¿—
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ß“ı®
+fcsharpsquid:S1104 "DMake this field 'private' and encapsulate it in a 'public' property.(ê§„øÿÿÿÿ
+`csharpsquid:S1104#"DMake this field 'private' and encapsulate it in a 'public' property.(»ôà
+mcsharpsquid:S1104&"DMake this field 'private' and encapsulate it in a 'public' property.(ãÔ¦Îÿÿÿÿÿ8Ëš–ë…0
+mcsharpsquid:S1104-"DMake this field 'private' and encapsulate it in a 'public' property.(ŒÏ¾õüÿÿÿÿ8íÅ¨ë…0
+mcsharpsquid:S1172Ï"CRemove this parameter 'text', whose value is ignored in the method.(Ë¬–şÿÿÿÿ8Œƒáë…0
+hcsharpsquid:S2223	"FChange the visibility of 'Singleton' or make it 'const' or 'readonly'.(şÏğÿûÿÿÿÿ
+~csharpsquid:S2696d"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Úè¯­øÿÿÿÿ8Ëš–ë…0
+Hcsharpsquid:S125Ø"Remove this commented out code.(œıØ­úÿÿÿÿ8ğÀ¦ì…0
+Bcsharpsquid:S125Û"Remove this commented out code.(÷ø»y8›Øì…0
